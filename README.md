@@ -1,5 +1,7 @@
 ### Instagram bot using puppeteer
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/pitops/instagram-bot.svg)](https://greenkeeper.io/)
+
 This particular instagram bot follows back anyone that follows a certain account you own.
 
 ### Setup
